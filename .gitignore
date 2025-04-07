@@ -1,0 +1,24 @@
+# Ignore user-specific and VS junk
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+
+# IDE config
+*.swp
+*.sln.docstates
+
+# SQLite artifacts
+*.db
+*.db-shm
+*.db-wal
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

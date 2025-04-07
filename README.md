@@ -21,7 +21,7 @@ This project was built as part of a technical assessment. The goal was to demons
 - **ORM**: Entity Framework Core  
 - **Database**: SQLite
 
-> I chose .NET Core Web API because C# is the language I’m most proficient in.  
+> I chose ASP.NET Core Web API with C# because it’s a combination I’m highly experienced and comfortable working with.
 > Since this is a simple feature, I avoided overengineering with extra layers like clean architecture and handled all logic in one project.
 
 ### Frontend (`FormWise.WebApp`)
